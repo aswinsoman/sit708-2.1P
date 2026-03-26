@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Travel Companion</string>
+    <string name="convert_button">Convert</string>
+    <string name="input_hint">Enter value</string>
+    <string name="result_prefix">Result: </string>
+    <string name="select_category">Select Category:</string>
+    <string name="from_label">From:</string>
+    <string name="to_label">To:</string>
+
+    <string-array name="categories">
+        <item>Currency</item>
+        <item>Fuel &amp; Distance</item>
+        <item>Temperature</item>
+    </string-array>
+
+    <string-array name="currency_units">
+        <item>USD</item>
+        <item>AUD</item>
+        <item>EUR</item>
+        <item>JPY</item>
+        <item>GBP</item>
+    </string-array>
+
+    <string-array name="fuel_units">
+        <item>MPG</item>
+        <item>KM/L</item>
+        <item>Gallon (US)</item>
+        <item>Liter</item>
+        <item>Nautical Mile</item>
+        <item>Kilometer</item>
+    </string-array>
+
+    <string-array name="temp_units">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+</resources>
