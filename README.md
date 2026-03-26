@@ -1,6 +1,6 @@
 # Travel Companion App
 
-A simple Android application designed to help international travellers convert essential values. This app was built as part of an Android development learning task.
+A simple Android application designed to help international travellers convert essential values.
 
 ## Features
 
